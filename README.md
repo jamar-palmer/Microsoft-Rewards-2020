@@ -1,2 +1,2 @@
-# creative
-I'll do something with this eventually 
+# Microsoft Rewards Search Automation
+Performs desktop searches at random speeds 
